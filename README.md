@@ -1,4 +1,4 @@
-# End To End Retail Sales Power BI Project
+# End To End Power BI Retail Project
 
 Tools used: PowerBI, DAX
 
