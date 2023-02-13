@@ -1,5 +1,11 @@
 # End To End Power BI Retail Project
 
+![This is an image](https://drive.google.com/file/d/1nC3LRUirJAVlsdUAYGEicneUKbDsXalQ/)
+Sales Report
+
+![This is an image](https://drive.google.com/file/d/1EqD0-Y_BLj1m-SXmU4g0htOzNh9LBO7S/)
+Sales Dashboard
+
 Tools used: PowerBI, DAX
 
 This project exhibits the following steps
